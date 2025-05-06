@@ -1,15 +1,4 @@
-Perfecto. A continuación te dejo el `README.md` **completo, ordenado y listo para copiar y pegar**, todo dentro de un solo bloque sin separar nada.
-
----
-
 ````markdown
-# 🚗 VIP2CARS - Sistema de Gestión de Vehículos
-
-![Made with Laravel](https://img.shields.io/badge/Laravel-12.x-red?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Profesional-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
 Sistema CRUD profesional para la gestión de vehículos y clientes. Construido con tecnologías modernas como Laravel 12, React + TypeScript, Inertia.js y Tailwind CSS. Este proyecto está diseñado con buenas prácticas de desarrollo web full stack, validaciones robustas y una interfaz visual moderna ideal para presentar en pruebas técnicas o entrevistas laborales.
 
 ---
@@ -164,13 +153,14 @@ Esto servirá los assets en [http://localhost:5173](http://localhost:5173), pero
 
 ## 👨‍💻 Autor
 
-**Desarrollado por:** \[Tu Nombre]
-GitHub: [https://github.com/tuusuario](https://github.com/BryanRiveraLivia/)
-LinkedIn: [https://linkedin.com/in/tuusuario](hhttps://www.linkedin.com/in/neill-bryan-rivera-livia/)
-Correo: [tu.email@ejemplo.com](bryan.riv09@live.com)
+**Desarrollado por:** Neill Bryan Rivera Livia
+
+- GitHub: [https://github.com/tuusuario](https://github.com/BryanRiveraLivia/)
+- LinkedIn: [https://linkedin.com/in/tuusuario](hhttps://www.linkedin.com/in/neill-bryan-rivera-livia/)
+- Correo: [tu.email@ejemplo.com](bryan.riv09@live.com)
 
 ---
 
 ## 📬 ¿Consultas o propuestas?
 
-He desarrollado esta prueba técnica para Vip2Cards, en caso deseen contactarme: bryan.riv09@live.com / +51991735527
+He desarrollado esta prueba técnica para Vip2Cars, en caso deseen contactarme: bryan.riv09@live.com / +51991735527
