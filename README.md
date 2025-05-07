@@ -120,6 +120,9 @@ npm run dev
 
 Esto servirá los assets en [http://localhost:5173](http://localhost:5173), pero la aplicación se accede desde [http://localhost:8000](http://localhost:8000) gracias a Inertia.js.
 
+- Para poder visualizar el proyecto debes entrar ah:
+  http://localhost:8000/vehicles
+
 ---
 
 ## ✅ Funcionalidades
