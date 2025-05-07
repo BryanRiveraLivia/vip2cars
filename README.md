@@ -1,5 +1,5 @@
 ````markdown
-Sistema CRUD profesional para la gestión de vehículos y clientes. Construido con tecnologías modernas como Laravel 12, React + TypeScript, Inertia.js y Tailwind CSS. Este proyecto está diseñado con buenas prácticas de desarrollo web full stack, validaciones robustas y una interfaz visual moderna ideal para presentar en pruebas técnicas o entrevistas laborales.
+Sistema CRUD profesional para la gestión de vehículos y clientes. Construido con tecnologías modernas como Laravel 12, React + TypeScript, Inertia.js y Tailwind CSS.
 
 ---
 
