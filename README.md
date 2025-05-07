@@ -159,7 +159,7 @@ Esto servirá los assets en [http://localhost:5173](http://localhost:5173), pero
 **Desarrollado por:** Neill Bryan Rivera Livia
 
 - GitHub: [https://github.com/BryanRiveraLivia/](https://github.com/BryanRiveraLivia/)
-- LinkedIn: [https://www.linkedin.com/in/neill-bryan-rivera-livia/details/experience/](hhttps://www.linkedin.com/in/neill-bryan-rivera-livia/)
+- LinkedIn: [https://www.linkedin.com/in/neill-bryan-rivera-livia/](hhttps://www.linkedin.com/in/neill-bryan-rivera-livia/)
 - Correo: [bryan.riv09@live.com](bryan.riv09@live.com)
 
 ---
